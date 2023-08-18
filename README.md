@@ -7,15 +7,9 @@ AdminBSB - Material Design
 
 It's really easy to customize and usage. You can use for from 320px to large resolution pixels of new generation screens and mobile devices. (**Fully Responsive Material Design**)
 
-Looking for Premium Templates?
-----------------
-**If you need more features please visit portfolio of mine which page link is [https://themeforest.net/user/gurayyarar/portfolio](http://bit.ly/2oPFpmQ)**
-
 Demo
 ----------------
-You can check the website preview with **[this link](https://gurayyarar.github.io/AdminBSBMaterialDesign/)**  
-
-![AdminBSB - Free Admin Template With Material Design](https://raw.githubusercontent.com/gurayyarar/AdminBSBMaterialDesign/master/images/screenshot.png)
+You can check the website preview with **[this link](https://mikicchi.github.io/AdminBSBMaterialDesign/)**  
 
 Installation
 ----------------
@@ -40,7 +34,7 @@ bower install adminbsb-materialdesign
 
 Documentation
 ----------
-Visit the **[documentation](https://gurayyarar.github.io/AdminBSBMaterialDesign/documentation/)**
+Visit the **[documentation](https://mikicchi.github.io/AdminBSBMaterialDesign/documentation/)**
 
 Browser Support
 ----------
@@ -53,7 +47,7 @@ Browser Support
 
 Change Logs
 ----------
-You can display all release notes with **[this link](https://gurayyarar.github.io/AdminBSBMaterialDesign/pages/changelogs.html)**
+You can display all release notes with **[this link](https://mikicchi.github.io/AdminBSBMaterialDesign/pages/changelogs.html)**
 
 
 FAQ
@@ -67,9 +61,3 @@ No, not required. (Though very much appreciated)
 License
 ----------
 **AdminBSB - Material Design** is an open source project that is licensed under the [MIT license](http://opensource.org/licenses/MIT).
-
-Donations
-----------
-Donations are **greatly appreciated!**
-
-**[BUY ME A COFFEE](http://bit.ly/2yEjtx5)**
